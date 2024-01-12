@@ -1,1 +1,1 @@
-AEF
+A finite-state automaton or finite state machine or FSM is a mathematical model of calculation, used, for example, for the design of computer programs or communication protocols. In Figure 0, a model of the operation of a gate is given.
